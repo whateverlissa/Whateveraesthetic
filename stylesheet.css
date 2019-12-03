@@ -31,7 +31,7 @@ a:focus, a:hover {
   background-color: ;
 }
 a:active {
-  color: #ffe6ff;
+  color: #ffa3ff;
   background-color: #fff;
 }
 
@@ -39,7 +39,7 @@ h1 {
   font: bold 1.5em Georgia, serif;
   text-shadow: .05em .05em .1em lightslategray;
   text-align: center;
-  color: #ffc9fc;
+  color: #c4a9c3;
 }
 h2 {
   font-size: 1em;
