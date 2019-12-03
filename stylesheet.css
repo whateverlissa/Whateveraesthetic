@@ -24,7 +24,7 @@ a:link {
   color: #939;
 }
 a:visited {
-  color:#ffe6ff;
+  color:#fff0ff;
 }
 a:focus, a:hover {
   color:#ffc9fc;
@@ -39,7 +39,7 @@ h1 {
   font: bold 1.5em Georgia, serif;
   text-shadow: .05em .05em .1em lightslategray;
   text-align: center;
-  color: #c4a9c3;
+  color: #ffe0ff;
 }
 h2 {
   font-size: 1em;
