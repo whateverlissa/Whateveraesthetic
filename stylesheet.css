@@ -21,10 +21,10 @@ a {
   text-decoration: none;
 }
 a:link {
-  color: #939;
+  color: #b32db3;
 }
 a:visited {
-  color:#fff0ff;
+  color:#8a7c8a;
 }
 a:focus, a:hover {
   color:#ffc9fc;
